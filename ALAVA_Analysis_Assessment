@@ -1,0 +1,105 @@
+ALAVA, MARIE CHRISTELLE JOYCE C. 
+2015-90356
+
+I. ORIGINAL TEXT 
+Source: https://thefilipinotraveller.wordpress.com/2016/07/19/why-travelling-in-the-philippines-the-right-choice/#more-154
+Type: Online Descriptive Essay 
+
+Why Travelling in the Philippines the Right Choice
+By Christelle Alava
+
+Philippines is known for being an archipelago which has 7,107 islands that is scattered around, forming three main islands namely Luzon, Visayas, and Mindanao. These 7,107 Islands are ringed by pristine beaches and teeming coral reefs. People who shall visit these islands will surely have the most wonderful experience. But it is not just the islands, the Philippines has to offer to its tourists, there is something more.
+
+There are lavish choices of foods ranging from different varieties and each region has its different cuisines to offer. Food in the Philippines has a diverse blend of Oriental, European and American culinary tastes; also, Fresh seafoods are abundant here. Even though Filipino cuisine is not popular around the world it cannot determine how bad or good it taste. One of the most famous Filipino cuisines that were very remarkable by the tourists is “Adobo”.  Adobo is a dish with chicken, beef or pork cooked with vinegar and soy sauce. As one eat an Adobo, the sour taste of vinegar that spurns in the mouth; mix with the sweetness of meat’s oil and the saltiness of the soy sauce. But this recipe doesn’t stick for adobo has different varieties like Adobo sa Dilaw, Adobong Puti, and Adobo sa Gata. Of course, street foods also adds to tourists checklist for it will not just satisfy the stomach but will also show the culture of people in a specific place. Usual favorite street food is barbecue which comes in different variety. Tourist has safe choices like chicken and pork. But for true Filipino street food experience, the exotic ones like liver, intestine, heart, or gizzard barbecue are must try and talking about exotic food, nothing comes more exotic than the famous balut. Balut is a fertilized duck embryo that is boiled and eaten in the shell. Most foreigners’ challenge often would be eating a balut. It is one of the best things traveler must try during their stay.
+
+Aside from the Filipino Food, Philippines is also known for its beaches and islands and Boracay is one of the most popular, while only 7km tall and at its bikini line 500m wide, Boracay has rapidly become the Philippines’ top tourist draw, fuelled by explosive growth and wave of hype; in 2013 the readers of Travel & Leisure voted it the second-best island destination in the world after Palawan. Pamalican or Amanpulo Pamalican Islands also falls under the same aesthetics; clear blue waters surround the small island and from the shore you can see how boundless it is.  This small island in Cuyo is detached from the sight of many people for it can only be accommodated privately.
+
+Tourist can also do mountain climbing in the Philippines for within these islands there abounding lines of mountains that surrounds every place. The third highest mountain, Mt. Pulag in Cordillera can bestow mountaineers to witness the amusing sea of clouds and the union of red, orange, yellow, and blue lights that will make them feel that they are literally in heaven. Another is Pico de Loro the highest point that can be found in Cavite. It is called the “Parrot’s Peak” for it looks like a parrot’s beak from below. From there one can see the wide plains of Cavite and the South China Sea. Also, the breeze from the sea is carried all the way to the summit, giving the mountaineers refreshing experience during hot or dry days.
+
+Lastly, tourists should not miss the people of the Philippines. Filipinos are known for being hospitable and nothing comes close to a Filipino way of welcoming their guests. Filipinos love spoiling their guests with food and comfort. For example, elders or the one who leads the house keeps all the best plates, towels, bed sheets, and other stuff that a guest might use, to a storage room and only use them whenever there’s a guest.  Filipinos are the most kind and friendly people, extremely welcoming and curious, but also respectful. They always seem happy and smiling, and they love to sing and to dance whenever there is an occasion to celebrate.
+These are just three of all those reasons why picking Philippines as a place to relax, to have fun, to learn could never go wrong.
+
+So, go grab your backpacks now and visit the Philippines!
+
+
+II. SENTIMENT ANALYSIS 
+
+There are pretty few applications out there that can test sentiment analysis. The application that we used is Tone Analyzer by IBM Watson Developer Cloud. It has user-friendly interface, drag and click based and it will automatically do its job. It is only a demo version but with this application it can map sentences according to emotions/or how it was expressed. 
+
+The output is divided by two categories; one is Document level which shows the overview of the analysis and the sentence level. It identify sentences with stronger tones in context or sorted by score. Its highlighted sentences indicate the likelihood of a tone present. If more than one tone is present, the stronger one is shown. There are 5 emotions shown, Anger, Fear, Sadness, Joy and Disgust. Under Language  is divided by Analytical, Confident, Tentative and Social Tendencies includes, Openness, Conscientiousness, Extraversion, Agreeableness, Emotional Range. 
+
+With the document presented, these are the gathered results
+
+< .5 = not likely present 
+> .5 = likely present 
+> .75 = very likely present 
+
+Emotion
+
+Anger 
+0.10 
+UNLIKELY 
+Disgust 
+0.11 
+UNLIKELY 
+Fear 
+0.08 
+UNLIKELY 
+Joy 
+0.65 
+LIKELY 
+Sadness 
+0.19 
+UNLIKELY 
+
+Language Style
+
+Analytical 
+0.38 
+UNLIKELY 
+Confident 
+0.00 
+UNLIKELY 
+Tentative 
+0.50 
+LIKELY 
+Social Tendencies
+
+Openness 
+0.91 
+VERY LIKELY 
+Conscientiousness 
+0.48 
+UNLIKELY 
+Extraversion 
+0.76 
+VERY LIKELY 
+Agreeableness 
+0.18 
+UNLIKELY 
+Emotional Range 
+0.45 
+UNLIKELY 
+
+III. Assessment
+Looking on Sentiment Analysis definition where it is the process of computationally identifying and categorizing opinions expressed in a piece of text, especially in order to determine whether the writer's attitude towards a particular topic, product, etc., is positive, negative, or neutral. (Google Dictionary). I can say that the said activity proves how it works and shows how analyzing and proving queries on mind looks like. On my essay entitled “Why Travelling in the Philippines the Right Choice” that supposed to be a descriptive essay the results kind of matched to what it is supposed to be. The results shows that the highest peak of emotion was Joy. Going through those sentences we can see that there are words adjective or sentence structure that are associated with Joy. 
+“It is one of the best things traveler must try during their stay. 
+Aside from the Filipino Food, Philippines is also known for its beaches and islands and Boracay is one of the most popular, while only 7km tall and at its bikini line 500m wide, Boracay has rapidly become the Philippines’ top tourist draw, fuelled by explosive growth and wave of hype; in 2013 the readers of Travel & Leisure voted it the second-best island destination in the world after Palawan. 
+Pamalican or Amanpulo Pamalican Islands also falls under the same aesthetics; clear blue waters surround the small island and from the shore you can see how boundless it is. “
+
+For example, this sentence above shows words like rapid, fueled, explosive, hype that can be somewhat associated with the emotion. “Somewhat” because these applications has limited capabilities. The fact that it is only limited to 5 emotions shows that it doesn’t go deeper to what a user has expected it to be. It might be also questionable because it analyses the mood of the sentence base only on the keywords associated with an specific emotion. With the language category, it can be concluded that the basis of its algorithm is by looking on the sentence structure and its choice of words. 
+
+With this, we can say that there applications which are useful for analysis such as sentiment analysis but these applications that are free have certain capabilities and attributes that limits the results and output that are needed for a certain inquiry.
+But looking with this positively, these digital tools, helps us see, analyze, discover certain things that might be quite hard if you are just an artisan. 
+
+
+
+
+
+
+
+
+
+
+
+
